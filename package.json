@@ -1,0 +1,19 @@
+{
+  "name": "craft-algolia-search",
+  "version": "1.2.2",
+  "description": "This script is for sites using 'Algolia' search for jQuery frontend with Craft CMS.",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam38/craft-algolia.git"
+  },
+  "keywords": [
+    "tsibSearch"
+  ],
+  "author": "Sudarshan Shakya",
+  "license": "ISC",
+  "homepage": "https://github.com/sam38/craft-algolia#readme"
+}
